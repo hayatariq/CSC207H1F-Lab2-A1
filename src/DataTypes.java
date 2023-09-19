@@ -5,7 +5,7 @@ public class DataTypes {
     public static long sum(List<Integer> numbers) {
 
         long s = 0;
-        // below is a "foreach" loop which iterates through numbers
+        // below is a "foreach" loop which iterates through numbers is there really?
         for (int x : numbers) {
             s += x;
         }
